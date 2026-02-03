@@ -19,10 +19,10 @@
     <nav id="navbar">
       <ul>
         <li>
-          <a href="our-mission.html">Our Mission</a>
+          <a href="our-mission.php">Our Mission</a>
         </li>
         <li>
-          <a href="ingredients.html">Ingredients</a>
+          <a href="ingredients.php">Ingredients</a>
         </li>
       </ul>
     </nav>
@@ -45,7 +45,7 @@
       wholesome nutrition that chareterize each dish on our menu.
     </p>
     <figure style="text-align: center">
-      <img style="max-width: 400px" src="images/chef-working.jpg" alt="Our amazing resturant" />
+      <img style="max-width: 400px" src="./images/chef-working.jpg" alt="Our amazing resturant" />
       <figcaption>Our Amazing resturant</figcaption>
     </figure>
     <p>

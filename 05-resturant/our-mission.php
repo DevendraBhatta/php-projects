@@ -4,8 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="styles/home.css" />
-  <link rel="stylesheet" href="styles/mission.css" />
+  <link rel="stylesheet" href="./styles/mission.css"/>
   <title>Culinary Cove</title>
 </head>
 
@@ -19,15 +18,13 @@
     <nav id="navbar">
       <ul>
         <li>
-          <a href="our-mission.html">Our Mission</a>
+          <a href="our-mission.php">Our Mission</a>
         </li>
         <li>
-          <a href="ingredients.html">Ingredients</a>
+          <a href="ingredients.php">Ingredients</a>
         </li>
       </ul>
     </nav>
-    <div id="overlay">
-    </div>
   </header>
 
   <!-- header ends here -->

@@ -14,9 +14,11 @@
 }
 
 #head-line {
-  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
   text-align: center;
+}
 
+#head-line h1 {
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
 }
 
 #head-line h2 {
@@ -79,7 +81,6 @@
 }
 
 
-#mission-footer p{
+#mission-footer p {
   margin: 20px;
-
 }
