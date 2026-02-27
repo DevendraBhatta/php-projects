@@ -3,15 +3,15 @@
    padding: 0;
    box-sizing: border-box;
 }
-
+/* 
 #header-main {
-   background-image: url(../images/salad.jpg);
+   background-image: url('../assets/img/resturant.jpg');
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
    height: 40vh;
    color: white;
-}
+} */
 
 #head-line {
    text-align: center;

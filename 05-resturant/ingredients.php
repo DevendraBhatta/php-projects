@@ -1,5 +1,6 @@
 <?php
 $page_title = 'Ingredients';
+$header_background_image = 'salad.jpg';
 $page_css = 'styles/ingredient.css';
 include 'inc/header.inc.php';
 ?>

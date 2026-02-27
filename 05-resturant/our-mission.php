@@ -1,6 +1,7 @@
 <?php
 $page_title = 'Our Mission';
 $page_css = 'styles/mission.css';
+$header_background_image = 'resturant.jpg';
 include 'inc/header.inc.php';
 ?>
 

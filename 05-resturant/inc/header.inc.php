@@ -12,6 +12,17 @@
         <link rel="stylesheet" href="../<?php echo $page_css; ?>">
     <?php endif; ?>
 
+    <style>
+        #header-main {
+            background: url('../assets/img/<?php echo $header_background_image; ?>');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 40vh;
+            color: white;
+        }
+    </style>
+
 </head>
 
 <body>
