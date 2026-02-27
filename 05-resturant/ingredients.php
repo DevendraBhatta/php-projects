@@ -1,4 +1,7 @@
-<?php include 'inc/header.inc.php' ?>
+<?php
+$pageTitle = 'Ingredients';
+$page_css = 'styles/ingredient.css';
+include 'inc/header.inc.php' ?>
 
 <h1>Ingredients</h1>
 <p>

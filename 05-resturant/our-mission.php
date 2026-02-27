@@ -1,7 +1,10 @@
-<?php include 'inc/header.inc.php' ?>
+<?php
+$pageTitle = 'Our Mission';
+$page_css = 'styles/mission.css';
+include 'inc/header.inc.php';
+?>
 
 <div id="content">
-
   <h1>Our Mission</h1>
   <p>
     At Culinary Cove, our core mission is to offer a sanctuary for those who
@@ -13,10 +16,10 @@
   </p>
 
   <figure style="text-align: center">
-    <img style="max-width: 20rem" src="images/people-in-returant.jpg" alt="Our amazing resturant" />
+    <img style="max-width: 20rem" src="assets/img/people-in-bar.jpg" alt="Our amazing resturant" />
     <figcaption>Our Amazing resturant</figcaption>
   </figure>
- 
+
   <p>
     In addition to providing world-class cuisine, we belive in creating a
     welcoming and comfortable atmosphere where everyone can relax and enjoy.
