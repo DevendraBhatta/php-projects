@@ -1,10 +1,11 @@
 <?php
-$pageTitle = 'Ingredients';
+$page_title = 'Ingredients';
 $page_css = 'styles/ingredient.css';
-include 'inc/header.inc.php' ?>
+include 'inc/header.inc.php';
+?>
 
-<h1>Ingredients</h1>
-<p>
+<h1 id="title">Ingredients</h1>
+<p id="description" class="para">
   At Culinary Cove, our ethos is deeply rooted in the belief that
   exceptional cuisine starts with exceptional ingredients, That's why we
   are committed to using only natural, locally-sourced produce, free-range
@@ -15,10 +16,10 @@ include 'inc/header.inc.php' ?>
   wholesome nutrition that chareterize each dish on our menu.
 </p>
 <figure style="text-align: center">
-  <img style="max-width: 400px" src="./images/chef-working.jpg" alt="Our amazing resturant" />
+  <img style="max-width: 400px" src="assets/img/chef-working.jpg" alt="Our amazing resturant" />
   <figcaption>Our Amazing resturant</figcaption>
 </figure>
-<p>
+<p class="para">
   Our use of natural ingredients goes beyond just a selling point; it's a
   promise to our guests and to ourselves, we see each meal as an
   oppurtunity to celebrate the bounty of nature

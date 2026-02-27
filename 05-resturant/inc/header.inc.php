@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Culinary Cove - <?php echo $pageTitle; ?></title>
+    <title>Culinary Cove - <?php echo $page_title; ?></title>
     <link rel="stylesheet" href="../styles/home.css">
 
     <?php if (isset($page_css)) : ?>
@@ -15,7 +15,6 @@
 </head>
 
 <body>
-    <!-- Header Starts Here -->
     <header id="header-main">
         <div id="head-line">
             <h1>Culinary Cove</h1>

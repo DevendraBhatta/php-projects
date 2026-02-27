@@ -1,13 +1,12 @@
-#content p {
-   background-color: aliceblue;
-   margin: 20px;
-   line-height: 1.8;
-   font-family: 'Segoe UI';
-   padding: 20px;
-}
-
-#content h1 {
+#title {
    text-align: center;
    margin: 20px;
    padding: 20px;
+}
+
+.para {
+   background-color: aliceblue;
+   margin: 20px;
+   padding: 20px;
+   font-size: 18px;
 }

@@ -49,17 +49,13 @@
    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
 }
 
-#navbar ul li a:hover{
+#navbar ul li a:hover {
    color: black;
    background-color: aliceblue;
 }
 
-
-
-
-
-
-#ingredient-footer {
+/* Footer CSS */
+#footer-main {
    height: 100px;
    background-color: aliceblue;
    height: 100px;
@@ -67,19 +63,6 @@
    text-align: center;
 }
 
-#ingredient-footer p {
+#footer-main p {
    margin: 20px;
-}
-
-
-#mission-footer {
-  background-color: aliceblue;
-  height: 100px;
-  padding: 20px;
-  text-align: center;
-}
-
-
-#mission-footer p {
-  margin: 20px;
 }

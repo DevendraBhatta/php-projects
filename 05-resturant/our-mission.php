@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Our Mission';
+$page_title = 'Our Mission';
 $page_css = 'styles/mission.css';
 include 'inc/header.inc.php';
 ?>
@@ -30,4 +30,5 @@ include 'inc/header.inc.php';
     than just a dish; it 's a journey into a world of unique and exciting
     flavors.
   </p>
-  <?php include 'inc/footer.inc.php' ?>
+</div>
+<?php include 'inc/footer.inc.php' ?>
