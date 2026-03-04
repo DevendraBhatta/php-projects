@@ -3,6 +3,7 @@ $page_css = 'styles/menu.css';
 $page_title = 'Our Menu';
 $header_background_image = 'fish-curry.jpg';
 include 'inc/header.inc.php' ?>
+
 <div id="menu-container">
     <h1 id="headline">Our Menu</h1>
     <h2 class="sub-headline">Starters</h2>
