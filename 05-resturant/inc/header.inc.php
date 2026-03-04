@@ -40,6 +40,9 @@
                 <li>
                     <a href="ingredients.php">Ingredients</a>
                 </li>
+                <li>
+                    <a href="menu.php">Our Menu</a>
+                </li>
 
             </ul>
         </nav>

@@ -1,0 +1,40 @@
+#menu-container {
+    width: 80%;
+    margin: 20px auto;
+
+}
+
+#menu-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#menu-container li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}   
+
+#headline {
+    text-align: center;
+    color: #333;
+    margin: 50 20px;
+}
+
+.sub-headline {
+    color: #555;
+    margin: 20px 0;
+}
+
+#main-image {
+    margin: 20px;
+    padding: 20px;
+}
+
+#main-image img {
+    border-radius: 10px;
+    max-width: 20rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
